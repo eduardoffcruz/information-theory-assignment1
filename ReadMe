@@ -1,5 +1,6 @@
 =========================DataSet Analysis==========================
-In this project I created a python script to analyse a dataset of
+In this project, a python script was implemented to analyse a dataset of
 images, text and audio, in order to better understand and apply the
 concepts of Entropy, Redundancy and Mutual Information. 
+                  Course of Information Theory 
 ==============================@2020================================
